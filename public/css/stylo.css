@@ -1,0 +1,11 @@
+.menu-stylo a:hover {
+    /*hover do menu inicial <ul> e <li>*/
+    background-color: #FF6347;
+    color: dimgray;
+    width: 100%;
+    height: 100%;
+}
+
+.header-stylo {
+    background-color: dodgerblue;
+}
